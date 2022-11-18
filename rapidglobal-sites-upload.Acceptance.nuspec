@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rapidglobal-sites-upload.Acceptance</id>
+    <version>$version$</version>
+    <authors>Rapid Global</authors>
+    <description>Rapid Global Products - Upload</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+</package>
